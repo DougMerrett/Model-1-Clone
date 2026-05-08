@@ -1,4 +1,4 @@
-// Copyright 2021, Doug Merrett
+// Copyright 2021, Douglas Merrett
 //
 // All rights reserved.
 //
@@ -34,10 +34,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-//import java.util.HashMap;
-//import java.util.Map;
 import java.util.Properties;
-
 
 //
 // Font Diagram Program to see if the bitmap I have created is right
