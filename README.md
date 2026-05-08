@@ -12,6 +12,8 @@ Modern equivalent Floppy-80 style devices should also work.
 
 The real-time clock needs the original MSM5832 clock chip as all the modern real-time clock chips use either SPI or I2C.
 
+It is an ongoing project which will be filled out when I get things working.
+
 ---
 
 ## License
